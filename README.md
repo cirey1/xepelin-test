@@ -3,7 +3,7 @@ Prueba tecnica Xepelin
 
 # Ejercicios
 
-Script de facil uso, solamente se necesita python 3 instalado y poder correr el siguiente comando `python script.py`
+Script de facil uso, solamente se necesita python 3 instalado y poder correr el siguiente comando `python script_1.py` o `python script_2.py`
 
 ## Ejercicio 1
 Dentro de este ejercicio, intente reducir la cantidad de evaluaciones (asumiendo que en otros casos, las evaluaciones pueden ser costosas). Entonces hice el minimo de casos (2) para poder ir construyendo un string y posteriormente, cambiar su primera letra a mayuscula (esto facilitaba la reducción de comparaciones)
