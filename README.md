@@ -14,6 +14,7 @@ En este ejercicio, tome el approach más basico en donde se itera sobre las posi
 
 # MVP
 (URL NO ASEGURADA CON HTTPS DADO QUE NO SE VIO LA NECESIDAD DE SACAR UN CERTIFICADO)
+
 URL: http://3.142.219.141:8000/
 
 ## Que se utilizo
